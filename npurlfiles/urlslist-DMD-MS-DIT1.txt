@@ -1,0 +1,8 @@
+https://dmddit1-ms.ebiz.verizon.com:8022/dmd/version,CASSANDRA-UPDATE-SERVICE,DIT1
+https://dmddit1-ms.ebiz.verizon.com:8050/dmd/version,DEVICE-INFO,DIT1
+https://dmddit1-ms.ebiz.verizon.com:8040/dmd/version,DATA-SERVICE,DIT1
+https://dmddit1-ms.ebiz.verizon.com:8010/dmd/version,FEATURES-SERVICE,DIT1
+http://dmddit1-ms.ebiz.verizon.com:8025/dmd/dmd/version,GUI-SERVICE,DIT1
+https://dmddit1-ms.ebiz.verizon.com:8020/dmd/version,MULTIDEVICELOOKUP-SERVICE,DIT1
+http://dmddit1-ms.ebiz.verizon.com:8023/dmd/version,PROCESSING-SERVICE,DIT1
+https://dmddit1-ms.ebiz.verizon.com:8077/dmd/version,WRAPPER-SERVICE,DIT1

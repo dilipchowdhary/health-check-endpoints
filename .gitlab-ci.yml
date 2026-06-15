@@ -1,0 +1,42 @@
+variables:
+  http_proxy: "proxy.ebiz.verizon.com:80"
+  https_proxy: "proxy.ebiz.verizon.com:80"
+  NO_PROXY: "169.254.169.254"
+  URLFILE: "prod_keepalive/urlslist-DVS-PRE-tdc-b2b.txt"
+  APPTYPE: "PRE"
+  CHECKTYPE: "healthcheck"
+  REPORT_FILE: "report_file.html"
+stages:
+  - build
+  - health_check
+  - deploy
+.bootstrap:
+  tags:
+    - docker
+  image: centos:7
+build:
+  extends: .bootstrap
+  stage: build
+  script:
+    - python --version
+
+health_check:
+  extends: .bootstrap
+  stage: health_check
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+      when: on_success
+    - when: manual
+  script:
+    - yum -y install python3 python3-pip
+    - python3 --version
+    - pip3 install --no-cache-dir -r requirements.txt
+    - pip3 install --no-cache-dir boto3 botocore
+    - mkdir -p report/tmp
+    - python3 main.py -f "$URLFILE" -at "$APPTYPE" -ct "$CHECKTYPE" -r "report/$REPORT_FILE" -t "report/tmp"
+  artifacts:
+    when: always
+    expire_in: 14 days
+    paths:
+      - report/*.html
+      - report/tmp/outfile.csv

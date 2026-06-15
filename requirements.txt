@@ -1,0 +1,5 @@
+argparse>=1.4.0
+python-dateutil>=2.8.2
+datetime>=5.0
+requests==2.27.0
+

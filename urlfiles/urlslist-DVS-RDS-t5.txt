@@ -1,0 +1,12 @@
+#http://rdstest5north-p1.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T5
+#http://rdstest5east-p1.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T5
+#http://rdstest5b2b-p1.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T5
+#http://rdstest5north-s1.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T5
+#http://rdstest5east-s1.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T5
+#http://rdstest5b2b-s1.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T5
+http://rds-b2b01-t5g-east-1-gz.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,RDS_JDK_17_BLUE_B2B,T5	 
+http://rds-north01-t5g-east-1-gz.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,RDS_JDK_17_BLUE_NORTH1,T5	  
+http://rds-north02-t5g-east-1-gz.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,RDS_JDK_17_BLUE_NORTH2,T5	
+http://rds-b2b01-t5b-east-1-gz.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,RDS_JDK_17_GREEN_B2B,T5
+http://rds-north01-t5b-east-1-gz.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,RDS_JDK_17_GREEN_NORTH1,T5	
+http://rds-north02-t5b-east-1-gz.ebiz.verizon.com:8080/RDS/Sts5/index.jsp?rdsAcc=rdsAdmin,RDS_JDK_17_GREEN_NORTH2,T5

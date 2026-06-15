@@ -1,0 +1,8 @@
+https://rdswest09.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,DVSRDS,WEST
+https://rdswest10.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,DVSRDS,WEST
+https://rdswest11.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,DVSRDS,WEST
+https://rdswest12.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,DVSRDS,WEST
+https://rdswest09.vpc.verizon.com:8043/check.html,DVSRDS,WEST
+https://rdswest10.vpc.verizon.com:8043/check.html,DVSRDS,WEST
+https://rdswest11.vpc.verizon.com:8043/check.html,DVSRDS,WEST
+https://rdswest12.vpc.verizon.com:8043/check.html,DVSRDS,WEST

@@ -1,0 +1,7 @@
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8045,/dmd/version,DEVICE-INFO,CANARY
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8043,/dmd/version,MULTIDEVICELOOKUP-SERVICE,CANARY
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8040,/dmd/version,WRAPPER-SERVICE,CANARY
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8033,/dmd/version,FEATURES-SERVICE,CANARY
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8034,/dmd/version,FEATURES-SERVICE2,CANARY
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8035,/dmd/version,FEATURES-SERVICE3,CANARY
+VZW-B6QV-APP-PROD-DMDCAN-AE1-AutoScalingGroup-yyWhWXvcaooz,us-east-1,https,8024,/dmd/version,DATA-SERVICE,CANARY

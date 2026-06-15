@@ -1,0 +1,10 @@
+---
+- hosts: all
+  gather_facts: true
+  tasks:
+#    - name: remove old directory {{ inventory_hostname }}
+#      shell: 'rm -rf /tmp/files'
+    - name: copy the files from repo {{ inventory_hostname }}
+      copy:
+        src: files
+        dest: /tmp/

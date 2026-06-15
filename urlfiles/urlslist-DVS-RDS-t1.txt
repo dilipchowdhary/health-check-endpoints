@@ -1,0 +1,12 @@
+http://rdstest1north-p1.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1G
+http://rdstest1east-p1.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1G
+http://rdstest1b2b-p1.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1G
+http://rdstest1b2b-p2.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1G
+http://rdstest1north-s1.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1B
+http://rdstest1east-s1.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1B
+http://rdstest1b2b-s1.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1B
+http://rdstest1b2b-s2.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T1B
+https://rds-vbgbeta1.ebiz.verizon.com/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,VBG-GSLB
+http://rds-vbg-beta101.ebiz.verizon.com:8080/RDS/Sts1/index.jsp?rdsAcc=rdsAdmin,DVSRDS,VBG
+
+

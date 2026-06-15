@@ -1,0 +1,6 @@
+DVS-PNO,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-DA-ELBTa-ESNFDJHK4QJ4/67db39b05a79b646,us-east-1,264
+CCPA-PNO,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-DA-ELBTa-HB8RVEJKYQ4V/7fc4a1da2da5b491,us-east-1,2
+SOI-PNO,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-DA-ELBTa-SGMHVJP0XQYN/6a4ba01ecff4b258,us-east-1,24
+ECPD-PNO,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-DA-ELBTa-BDSSEFJ1R2HE/c0c1b1bb05fc523e,us-east-1,16
+ETNI-PNO,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-DA-ELBTa-Z3OWNQDLW7RT/b9561fd56b587648,us-east-1,32
+CXP-PNO,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-DAGV-CXPPNO-ASG-TG-AE1/fc50f568f6b6aef5,us-east-1,480

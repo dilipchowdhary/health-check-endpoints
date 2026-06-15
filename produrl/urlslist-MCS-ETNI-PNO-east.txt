@@ -1,0 +1,2 @@
+https://etnipnob2cservices-awseast.verizon.com/PNO/,ETNI-PNO,EAST
+VZW-DAGV-PROD-ETNI-B2C-AE1-AutoScalingGroup-1JRL3KEBA484A,us-east-1,https,13001:13002:13003:13004,/PNO/,PNO,EAST

@@ -1,0 +1,8 @@
+https://pnocache1-ae1.vpc.verizon.com:13001/cacheservice/stats,Cache-PNO,EAST
+https://pnocache1-ae1.vpc.verizon.com:13002/cacheservice/stats,Cache-PNO,EAST
+https://pnocache1-ae1.vpc.verizon.com:13003/cacheservice/stats,Cache-PNO,EAST
+https://pnocache1-ae1.vpc.verizon.com:13004/cacheservice/stats,Cache-PNO,EAST
+https://pnocache2-ae1.vpc.verizon.com:13001/cacheservice/stats,Cache-PNO,EAST
+https://pnocache2-ae1.vpc.verizon.com:13002/cacheservice/stats,Cache-PNO,EAST
+https://pnocache2-ae1.vpc.verizon.com:13003/cacheservice/stats,Cache-PNO,EAST
+https://pnocache2-ae1.vpc.verizon.com:13004/cacheservice/stats,Cache-PNO,EAST

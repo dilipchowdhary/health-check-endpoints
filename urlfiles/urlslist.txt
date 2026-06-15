@@ -1,0 +1,4 @@
+https://dvstest1north-p2.ebiz.verizon.com:23643/myacctcommon/service,MYACCT-COMMON,T1
+https://dvstest1b2b-p1.ebiz.verizon.com:23643/myacctcommon/service,MYACCT-COMMON,T1
+https://dvstest1b2b-p2.ebiz.verizon.com:23643/myacctcommon/service,MYACCT-COMMON,T1
+https://dvstest1east-p1.ebiz.verizon.com:23543/lrcommon/service,LR-COMMON,T1

@@ -1,0 +1,4 @@
+http://saclpb6vvd701.sdc.vzwcorp.com:9099/check.html,DVSRDS,SDC-B2B
+http://saclpb6vvd702.sdc.vzwcorp.com:9099/check.html,DVSRDS,SDC-B2B
+http://saclpb6vvd703.sdc.vzwcorp.com:9099/check.html,DVSRDS,SDC-B2B
+http://saclpb6vvd704.sdc.vzwcorp.com:9099/check.html,DVSRDS,SDC-B2B

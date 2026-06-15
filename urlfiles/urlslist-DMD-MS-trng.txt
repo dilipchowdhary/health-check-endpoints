@@ -1,0 +1,17 @@
+https://dmdtrn-ms-s1.ebiz.verizon.com:8010/dmd/version,FEATURES-SERVICE,TRNG
+https://dmdtrn-ms-s2.ebiz.verizon.com:8010/dmd/version,FEATURES-SERVICE,TRNG
+https://dmdtrn-ms-s1.ebiz.verizon.com:8050/dmd/version,DEVICE-INFO,TRNG
+https://dmdtrn-ms-s2.ebiz.verizon.com:8050/dmd/version,DEVICE-INFO,TRNG
+https://dmdtrn-ms-s1.ebiz.verizon.com:8020/dmd/version,MULTIDEVICELOOKUP-SERVICE,TRNG
+https://dmdtrn-ms-s2.ebiz.verizon.com:8020/dmd/version,MULTIDEVICELOOKUP-SERVICE,TRNG
+https://dmdtrn-ms-s1.ebiz.verizon.com:8022/dmd/version,CASSANDRA-UPDATE-SERVICE,TRNG
+https://dmdtrn-ms-s2.ebiz.verizon.com:8022/dmd/version,CASSANDRA-UPDATE-SERVICE,TRNG
+https://dmdtrn-ms-s1.ebiz.verizon.com:8077/dmd/version,WRAPPER-SERVICE,TRNG
+https://dmdtrn-ms-s2.ebiz.verizon.com:8077/dmd/version,WRAPPER-SERVICE,TRNG
+https://dmdtrn-ms-s1.ebiz.verizon.com:8040/dmd/version,DATA-SERVICE,TRNG
+https://dmdtrn-ms-s2.ebiz.verizon.com:8040/dmd/version,DATA-SERVICE,TRNG
+http://dmdtrn-ms-s1.ebiz.verizon.com:8025/dmd/dmd/version,GUI-SERVICE,TRNG
+http://dmdtrn-ms-s2.ebiz.verizon.com:8025/dmd/dmd/version,GUI-SERVICE,TRNG
+http://dmdtrn-ms-s1.ebiz.verizon.com:8023/dmd/version,PROCESSING-SERVICE,TRNG
+http://dmdtrn-ms-s2.ebiz.verizon.com:8023/dmd/version,PROCESSING-SERVICE,TRNG
+https://etnimwtrn.ebiz.verizon.com/EtniMsg/Trn/MsgSystem.agt,ETNI-LEGACY,TRN

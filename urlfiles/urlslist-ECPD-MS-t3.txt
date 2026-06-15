@@ -1,0 +1,15 @@
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/discovery/serverInfo,discovery,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/auth/serverInfo,auth,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/accountcommerce/serverInfo,accountcommerce,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/accountrule/serverInfo,accountrule,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/accountdiscount/serverInfo,accountdiscount,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/defaultsalesid/serverInfo,defaultsalesid,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/ecpd/serverInfo,ecpd,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/ecpdwr/serverInfo,ecpdwr,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/epod/serverInfo,epod,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/epodwr/serverInfo,epodwr,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/equipmentterm/serverInfo,equipmentterm,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/plandiscount/serverInfo,plandiscount,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/priceplan/serverInfo,priceplan,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewiapi/profilebyecpdid/serverInfo,profilebyecpdid,T3
+https://ewi-aws-uat3.ebiz.verizon.com:8081/ewi/serverInfo,EWI,T3

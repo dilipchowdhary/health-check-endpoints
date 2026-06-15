@@ -1,0 +1,6 @@
+http://tdclpb6vva005.tdc.vzwcorp.com:9099/check.html,DVSRDS,TDC
+http://tdclpb6vva006.tdc.vzwcorp.com:9099/check.html,DVSRDS,TDC
+http://tdclpb6vva007.tdc.vzwcorp.com:9099/check.html,DVSRDS,TDC
+http://tdclpb6vva008.tdc.vzwcorp.com:9099/check.html,DVSRDS,TDC
+http://tdclpb6vva009.tdc.vzwcorp.com:9099/check.html,DVSRDS,TDC
+http://tdclpb6vva010.tdc.vzwcorp.com:9099/check.html,DVSRDS,TDC

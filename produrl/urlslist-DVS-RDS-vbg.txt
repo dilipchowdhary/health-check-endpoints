@@ -1,0 +1,1 @@
+http://vbg-rdsprod01.vpc.verizon.com:8080/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,DVSRDS,VBG-EAST

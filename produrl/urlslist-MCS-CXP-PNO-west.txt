@@ -1,0 +1,2 @@
+https://cxppnob2cservices-awswest.verizon.com/PNO/,CXP-PNO,WEST
+VZW-DAGV-PROD-CXPPNO-B2C-AW2-AutoScalingGroup-CdS02FsgTXe7,us-west-2,https,13001:13002:13003:13004,/PNO/,PNO,WEST

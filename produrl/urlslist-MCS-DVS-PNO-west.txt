@@ -1,0 +1,2 @@
+https://dvspnob2cservices-awswest.vpc.verizon.com/PNO/
+VZW-DAGV-PROD-DVSPNO-B2C-AW2-AutoScalingGroup-1RP79B7S6FDZ6,us-west-2,https,13001:13002:13003:13004,/PNO/,PNO,EAST

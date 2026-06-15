@@ -1,0 +1,6 @@
+http://rdstest4north-p1.ebiz.verizon.com:8080/RDS/Sts4/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T4G
+http://rdstest4east-p1.ebiz.verizon.com:8080/RDS/Sts4/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T4G
+http://rdstest4b2b-p1.ebiz.verizon.com:8080/RDS/Sts4/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T4G
+http://rdstest4north.ebiz.verizon.com:8080/RDS/Sts4/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T4
+http://rdstest4b2b.ebiz.verizon.com:8080/RDS/Sts4/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T4
+

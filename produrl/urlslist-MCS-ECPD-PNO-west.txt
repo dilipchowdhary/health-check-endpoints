@@ -1,0 +1,7 @@
+https://ecpdpnob2cservices-awswest.verizon.com/PNO/,ECPD-PNO,ALB
+VZW-DAGV-PROD-ECPD-B2C-AW2-AutoScalingGroup-DWMI5R5OECUV,us-west-2,https,13001:13002:13003:13004,/PNO/,ECPD-PNO,WEST
+#https://ecpdpno1-aw2.vpc.verizon.com:13001/PNO/,ECPD-PNO,WEST
+#https://ecpdpno1-aw2.vpc.verizon.com:13002/PNO/,ECPD-PNO,WEST
+#https://ecpdpno1-aw2.vpc.verizon.com:13003/PNO/,ECPD-PNO,WEST
+#https://ecpdpno1-aw2.vpc.verizon.com:13004/PNO/,ECPD-PNO,WEST
+

@@ -1,0 +1,16 @@
+#https://rdspilot-tdc.vzwcorp.com/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOTLB-Onprem
+#http://tdclpb6vva008.tdc.vzwcorp.com:8085/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOT
+#http://tdclpb6vva009.tdc.vzwcorp.com:8085/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOT
+#http://tdclpb6vva010.tdc.vzwcorp.com:8085/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOT
+#http://tdclpb6vva008.tdc.vzwcorp.com:8085/check.html,RDS,PILOT
+#http://tdclpb6vva009.tdc.vzwcorp.com:8085/check.html,RDS,PILOT
+#http://tdclpb6vva010.tdc.vzwcorp.com:8085/check.html,RDS,PILOT
+https://rdspilot-awseast.verizon.com/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOTLB-AWS
+https://rdseastpilot01.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOT-AWS
+https://rdseastpilot02.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOT-AWS
+https://rdseastpilot03.vpc.verizon.com:8043/RDS/Prod/index.jsp?rdsAcc=rdsAdmin,RDS,PILOT-AWS
+https://rdseastpilot01.vpc.verizon.com:8043/check.html,RDS,PILOT-AWS
+https://rdseastpilot02.vpc.verizon.com:8043/check.html,RDS,PILOT-AWS
+https://rdseastpilot03.vpc.verizon.com:8043/check.html,RDS,PILOT-AWS
+
+

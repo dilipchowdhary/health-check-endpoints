@@ -1,0 +1,2 @@
+https://dvspnob2cservices.vpc.verizon.com/PNO/,DVS-PNO,EAST
+DAGV-APP-PROD-DVSPNO-B2C-AE2-AutoScalingGroup-RnpnDjjlLAWG,us-east-1,https,13001:13002:13003:13004,/PNO/,PNO,EAST2

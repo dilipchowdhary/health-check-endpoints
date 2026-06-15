@@ -1,0 +1,12 @@
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8090/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8082/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8095/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8094/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8094/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8096/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8097/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8092/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8093/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8099/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8091/kie-server/services/rest/server/containers/
+https://bpm-t3-1.orbpm.ebiz.verizon.com:8098/kie-server/services/rest/server/containers/

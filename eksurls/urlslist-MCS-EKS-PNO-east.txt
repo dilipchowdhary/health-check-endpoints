@@ -1,0 +1,9 @@
+https://dmdpno-alb1-dagv-e.vpc.verizon.com/dagv/prod/dmdpno/,DMD-PNO,PRODEAST
+https://cartpnob2c-alb1-dagv-e.vpc.verizon.com/dagv/prod/cartpnob2c/,CART-PNO,PRODEAST
+https://epcpno-alb1-dagv-e.vpc.verizon.com/dagv/prod/epcpno/,EPC-PNO,PRODEAST
+https://prsinsightspno-alb1-dagv-e.vpc.verizon.com/dagv/prod/prsinsightspno/,PRSINSIGHT-PNO,PRODEAST
+https://prsprofilepno-alb1-dagv-e.vpc.verizon.com/dagv/prod/prsprofilepno/,PRSPROFILE-PNO,PRODEAST
+https://jaaspno-alb1-dagv-e.vpc.verizon.com/dagv/prod/jaaspno/,JAAS-PNO,PRODEAST
+https://prefetchpno-alb1-dagv-e.vpc.verizon.com/dagv/prod/prefetchpno/,PREFETCH-PNO,PRODEAST
+https://osspnob2b-alb1-dagv-e.vpc.verizon.com/dagv/prod/osspnob2b/,OSS-PNO,PRODEAST
+https://iotpnob2b-alb1-dagv-e.vpc.verizon.com/dagv/prod/iotpnob2b/,IOT-PNO,PRODEAST

@@ -1,0 +1,5 @@
+https://ccpacoreeast01.vpc.verizon.com:8080/ccpa-core/ccpaHealthCheck,CCPA-CORE1,EAST
+https://ccpacoreeast02.vpc.verizon.com:8080/ccpa-core/ccpaHealthCheck,CCPA-CORE2,EAST
+https://ccpacoreeast03.vpc.verizon.com:8080/ccpa-core/ccpaHealthCheck,CCPA-CORE3,EAST
+https://ccpacoreeast04.vpc.verizon.com:8080/ccpa-core/ccpaHealthCheck,CCPA-CORE4,EAST
+https://ccpareactui.vpc.verizon.com:8081/api/health,PRP-UI,EAST

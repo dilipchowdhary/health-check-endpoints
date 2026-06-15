@@ -1,0 +1,10 @@
+DVS-GSS,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-ALB-GSS-TG/3ae59a4e3050ae3d,us-west-2,26
+DVS-COMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-DVSCOMMON/1b5e507a4af2d5cf,us-west-2,26
+DVS-ACSSCOMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-ACSSCOMMON/48d32b127bba0a9c,us-west-2,26
+DVS-LRCOMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-LRCOMMON/98d7e2a9b491b8ab,us-west-2,26
+DVS-POSCOMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-POSCOMMON/2d91ea8eb925eaf0,us-west-2,52
+DVS-MYATCOMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-MYATCOMMON/e7315cb90e2a6274,us-west-2,52
+DVS-RMSCOMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-RMSCOMMON/a816501c7541326e,us-west-2,26
+DVS-PRECOMMON,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-PRECOMMON/9ee7c82cc05852de,us-west-2,26
+DVS-GSBCOMPOSER,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-PROD-CONTEXT-COMPOSER/a1252b827b58ca4d,us-west-2,52
+DVS-RDS,arn:aws:elasticloadbalancing:us-west-2:128067331242:targetgroup/VZW-B6VV-RDS-ALB-WEST-TG/b08ea4a614eab14b,us-west-2,8

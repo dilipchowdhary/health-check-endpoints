@@ -1,0 +1,90 @@
+name: DVS Health Check
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dvs-health-check
+  cancel-in-progress: false
+
+on:
+  workflow_dispatch:
+    inputs:
+      urlfile:
+        description: "Path to URL list file in repo"
+        required: true
+        default: "prod_keepalive/urlslist-DVS-PRE-tdc-b2b.txt"
+      apptype:
+        description: "Application type (for response parsing)"
+        required: true
+        default: "PRE"
+      checktype:
+        description: "Check type (healthcheck or LB_CHECK)"
+        required: true
+        default: "healthcheck"
+      report_file:
+        description: "Output HTML report file name"
+        required: true
+        default: "report_file.html"
+  schedule:
+    - cron: "0 11 * * 1-5"
+
+jobs:
+  run-health-check:
+    # Internal URLs in this repo typically require corporate network access.
+    runs-on: [self-hosted, linux, VZW_B6VV_DVS_AWS_VDSI_Node]
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show runner details
+        run: |
+          echo "Runner: $RUNNER_NAME"
+          echo "OS: $RUNNER_OS"
+          echo "Arch: $RUNNER_ARCH"
+          hostname
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install boto3 botocore
+
+      - name: Prepare output folders
+        run: |
+          mkdir -p artifacts/tmp
+
+      - name: Run health check
+        env:
+          HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+          HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }}
+          NO_PROXY: ${{ secrets.NO_PROXY }}
+        run: |
+          URLFILE="${{ github.event.inputs.urlfile || 'prod_keepalive/urlslist-DVS-PRE-tdc-b2b.txt' }}"
+          APPTYPE="${{ github.event.inputs.apptype || 'PRE' }}"
+          CHECKTYPE="${{ github.event.inputs.checktype || 'healthcheck' }}"
+          REPORT_FILE="${{ github.event.inputs.report_file || 'report_file.html' }}"
+
+          python main.py \
+            -f "$URLFILE" \
+            -at "$APPTYPE" \
+            -ct "$CHECKTYPE" \
+            -r "artifacts/$REPORT_FILE" \
+            -t "artifacts/tmp"
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dvs-hc-report-${{ github.run_id }}
+          path: |
+            artifacts/*.html
+            artifacts/tmp/outfile.csv
+          if-no-files-found: warn

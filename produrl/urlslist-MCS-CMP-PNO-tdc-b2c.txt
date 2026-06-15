@@ -1,0 +1,12 @@
+http://tdclpdagva166.verizon.com:43001/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva166.verizon.com:43002/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva166.verizon.com:43003/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva166.verizon.com:43004/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva167.verizon.com:43001/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva167.verizon.com:43002/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva167.verizon.com:43003/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva167.verizon.com:43004/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva170.verizon.com:43001/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva170.verizon.com:43002/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva170.verizon.com:43003/PNO/,CMP-PNO,TDC-B2C
+http://tdclpdagva170.verizon.com:43004/PNO/,CMP-PNO,TDC-B2C

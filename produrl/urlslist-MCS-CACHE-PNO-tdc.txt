@@ -1,0 +1,16 @@
+http://tdclpdagva142.tdc.vzwcorp.com:43001/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva142.tdc.vzwcorp.com:43002/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva142.tdc.vzwcorp.com:43003/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva142.tdc.vzwcorp.com:43004/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva143.tdc.vzwcorp.com:43001/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva143.tdc.vzwcorp.com:43002/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva143.tdc.vzwcorp.com:43003/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva143.tdc.vzwcorp.com:43004/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva174.verizon.com:43001/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva174.verizon.com:43002/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva174.verizon.com:43003/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva174.verizon.com:43004/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva175.verizon.com:43001/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva175.verizon.com:43002/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva175.verizon.com:43003/cacheservice/stats,Cache-PNO,TDC
+http://tdclpdagva175.verizon.com:43004/cacheservice/stats,Cache-PNO,TDC

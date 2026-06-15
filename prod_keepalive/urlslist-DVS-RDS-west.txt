@@ -1,0 +1,8 @@
+http://rdswest01.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest02.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest03.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest04.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest05.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest06.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest07.vpc.verizon.com:8080/check.html,DVSRDS,WEST
+http://rdswest08.vpc.verizon.com:8080/check.html,DVSRDS,WEST

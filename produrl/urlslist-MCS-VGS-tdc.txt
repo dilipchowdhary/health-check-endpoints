@@ -1,0 +1,2 @@
+https://tdclpfj4va121.tdc.vzwcorp.com:10700/VendorGateway/,MCS-VendorGateway,TDC
+https://tdclpfj4va122.tdc.vzwcorp.com:10700/VendorGateway/,MCS-VendorGateway,TDC

@@ -1,0 +1,4 @@
+BA,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/GM9V-VIKIBOT-TG-BA-PROD-USEAST1/047df7b1dd6ccb1d,us-east-1,4
+BE,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/GM9V-VIKIBOT-TG-BE-PROD-USEAST1/16bb77b49de64ad3,us-east-1,26
+UI,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/GM9V-VIKIBOT-TG-UI-PROD-USEAST1/55c56e50828acc52,us-east-1,6
+MFT,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/GM9V-VIKIBOT-TG-MFT-PROD-USEAST1/dd5e47ea59944bb8,us-east-1,1

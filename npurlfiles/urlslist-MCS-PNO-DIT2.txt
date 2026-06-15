@@ -1,0 +1,8 @@
+http://mcscmpd2.ebiz.verizon.com:8080/PNO/,DVS-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:9030/PNO/,CXP-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:5445/PNO/,ETNI-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:6060/PNO/,ECPD-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:8060/PNO/,CMP-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:6445/PNO/,SOI-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:7070/PNO/,OSS-PNO,DIT2
+http://mcscmpd2.ebiz.verizon.com:8070/PNO/,CCPA-PNO,DIT2

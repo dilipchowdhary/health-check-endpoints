@@ -1,0 +1,3 @@
+http://rdstest6north-p1.ebiz.verizon.com:8080/RDS/Sts6/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T6
+http://rdstest6east-p1.ebiz.verizon.com:8080/RDS/Sts6/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T6
+http://rdstest6b2b-p1.ebiz.verizon.com:8080/RDS/Sts6/index.jsp?rdsAcc=rdsAdmin,DVSRDS,T6

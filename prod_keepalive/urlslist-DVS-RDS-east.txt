@@ -1,0 +1,8 @@
+http://rdsprod01.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod02.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod03.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod04.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod05.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod06.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod07.vpc.verizon.com:8080/check.html,DVSRDS,EAST
+http://rdsprod08.vpc.verizon.com:8080/check.html,DVSRDS,EAST

@@ -1,0 +1,4 @@
+https://ccpapnob2cservices-awswest.verizon.com/PNO/health_check/keepalive,CCPA-PNO,WEST
+https://144.70.47.198:13001/PNO/health_check/keepalive,CCPA-PNO,PRODWEST
+https://144.70.53.143:13001/PNO/health_check/keepalive,CCPA-PNO,PRODWEST
+https://ccpapnob2cservices.verizon.com/PNO/health_check/keepalive,CCPA-PNO,GLOBAL

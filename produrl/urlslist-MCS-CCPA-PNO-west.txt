@@ -1,0 +1,3 @@
+https://ccpapnob2cservices-awswest.verizon.com/PNO/,CCPA-PNO,WEST
+VZW-DAGV-APP-PROD-CCPAPNO-B2C-AW2-AutoScalingGroup-1NOP79WTTLE6N,us-west-2,https,13001,/PNO/,CCPA-PNO,WEST
+https://ccpapnob2cservices.verizon.com/PNO/,CCPA-PNO,GLOBAL

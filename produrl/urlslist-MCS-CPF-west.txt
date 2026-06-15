@@ -1,0 +1,12 @@
+http://cpf1-aw2.vpc.verizon.com:8071/actuator/health,CASSANDRA,West
+http://cpf1-aw2.vpc.verizon.com:8072/actuator/health,CASSANDRA,West
+http://cpf1-aw2.vpc.verizon.com:8073/actuator/health,CASSANDRA,West
+http://cpf2-aw2.vpc.verizon.com:8071/actuator/health,CASSANDRA,West
+http://cpf2-aw2.vpc.verizon.com:8072/actuator/health,CASSANDRA,West
+http://cpf2-aw2.vpc.verizon.com:8073/actuator/health,CASSANDRA,West
+http://cpf3-aw2.vpc.verizon.com:8071/actuator/health,CASSANDRA,West
+http://cpf3-aw2.vpc.verizon.com:8072/actuator/health,CASSANDRA,West
+http://cpf3-aw2.vpc.verizon.com:8073/actuator/health,CASSANDRA,West
+http://cpf4-aw2.vpc.verizon.com:8071/actuator/health,CASSANDRA,West
+http://cpf4-aw2.vpc.verizon.com:8072/actuator/health,CASSANDRA,West
+http://cpf4-aw2.vpc.verizon.com:8073/actuator/health,CASSANDRA,West

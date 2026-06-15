@@ -1,0 +1,5 @@
+dmd-device-info-service,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-B6QV-DMD-AE1-DEVICEINFO/72ac826cc53ea1d2,us-east-1,7
+dmd-features-service,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-B6QV-DMD-AE1-FEATURES/51914d21b24f726d,us-east-1,21
+dmd-cassandra-update-service,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-B6QV-DMD-AE1-CASSAN-UPDATE/f18bc1c0a42a3aaf,us-east-1,14
+dmd-multidevicelookup-service,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-B6QV-DMD-AE1-MULTIDEVICE/253cf0d7b4bfc95d,us-east-1,7
+dmd-data-service,arn:aws:elasticloadbalancing:us-east-1:128067331242:targetgroup/VZW-B6QV-DMD-AE1-DATASERVICE/a533d864cb2fdfff,us-east-1,7

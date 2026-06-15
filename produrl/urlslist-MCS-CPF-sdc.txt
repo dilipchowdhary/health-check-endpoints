@@ -1,0 +1,12 @@
+http://saclpdagva218.verizon.com:8071/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva218.verizon.com:8072/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva219.verizon.com:8071/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva219.verizon.com:8072/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva215.verizon.com:8071/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva215.verizon.com:8072/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva216.verizon.com:8071/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva216.verizon.com:8072/actuator/health,SDC-CASSANDRA,SDC
+http://saclpdagva209.verizon.com:8071/actuator/health,SDC-ORACLE,SDC
+http://saclpdagva210.verizon.com:8071/actuator/health,SDC-ORACLE,SDC
+http://saclpdagva211.verizon.com:8071/actuator/health,SDC-ORACLE,SDC
+http://saclpdagva213.verizon.com:8071/actuator/health,SDC-ORACLE,SDC

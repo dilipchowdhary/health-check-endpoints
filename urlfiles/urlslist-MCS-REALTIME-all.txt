@@ -1,0 +1,6 @@
+https://mcscmpt1.ebiz.verizon.com:10500/apex/keepalive,MCS-REALTIME,T1
+https://mcscmpt2.ebiz.verizon.com:10500/apex/keepalive,MCS-REALTIME,T2
+https://mcscmpt3.ebiz.verizon.com:10500/apex/keepalive,MCS-REALTIME,T3
+https://mcscmpt4.ebiz.verizon.com:10500/apex/keepalive,MCS-REALTIME,T4
+https://mcscmpt5.ebiz.verizon.com:10500/apex/keepalive,MCS-REALTIME,T5
+https://mcscmpt6.ebiz.verizon.com:10500/apex/keepalive,MCS-REALTIME,T6

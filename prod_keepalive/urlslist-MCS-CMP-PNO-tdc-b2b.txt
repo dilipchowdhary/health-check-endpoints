@@ -1,0 +1,12 @@
+http://tdclpdagva136.tdc.vzwcorp.com:63001/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva137.tdc.vzwcorp.com:63001/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva138.tdc.vzwcorp.com:63001/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva136.tdc.vzwcorp.com:63002/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva137.tdc.vzwcorp.com:63002/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva138.tdc.vzwcorp.com:63002/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva136.tdc.vzwcorp.com:63003/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva137.tdc.vzwcorp.com:63003/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva138.tdc.vzwcorp.com:63003/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva136.tdc.vzwcorp.com:63004/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva137.tdc.vzwcorp.com:63004/PNO/health_check/keepalive,CMP-PNO,TDC-B2B
+http://tdclpdagva138.tdc.vzwcorp.com:63004/PNO/health_check/keepalive,CMP-PNO,TDC-B2B

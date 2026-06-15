@@ -1,0 +1,16 @@
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,http,8026,/dmd/version,PROCESSING-SERVICE,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,http,8027,/dmd/version,PROCESSING-SERVICE2,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8045,/dmd/version,DEVICE-INFO,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8043,/dmd/version,MULTIDEVICELOOKUP-SERVICE,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8040,/dmd/version,WRAPPER-SERVICE,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8033,/dmd/version,FEATURES-SERVICE,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8034,/dmd/version,FEATURES-SERVICE2,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8035,/dmd/version,FEATURES-SERVICE3,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8024,/dmd/version,DATA-SERVICE,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8022,/dmd/version,CASSANDRA-UPDATE-SERVICE,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8023,/dmd/version,CASSANDRA-UPDATE-SERVICE2,WEST
+VZW-B6QV-APP-PROD-DMDMS-AW2-AutoScalingGroup-WzmEBwM4biTj,us-west-2,https,8030,/dmd/GLWrapperService/version,GL-WRAPPER-SERVICE,WEST
+
+
+
+

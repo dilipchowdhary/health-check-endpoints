@@ -1,0 +1,1 @@
+http://rdsstgeasttomcat.ebiz.verizon.com:8084/RDS/Sts4/index.jsp?rdsAcc=rdsAdmin,RDS,DIT4

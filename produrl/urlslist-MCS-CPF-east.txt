@@ -1,0 +1,9 @@
+http://cpf1-ae1.vpc.verizon.com:8071/actuator/health,CPF,East
+http://cpf1-ae1.vpc.verizon.com:8072/actuator/health,CPF,East
+http://cpf1-ae1.vpc.verizon.com:8073/actuator/health,CPF,East
+http://cpf2-ae1.vpc.verizon.com:8071/actuator/health,CPF,East
+http://cpf2-ae1.vpc.verizon.com:8072/actuator/health,CPF,East
+http://cpf3-ae1.vpc.verizon.com:8071/actuator/health,CPF,East
+http://cpf3-ae1.vpc.verizon.com:8072/actuator/health,CPF,East
+http://cpf4-ae1.vpc.verizon.com:8071/actuator/health,CPF,East
+http://cpf4-ae1.vpc.verizon.com:8072/actuator/health,CPF,East

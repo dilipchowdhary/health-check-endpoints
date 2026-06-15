@@ -1,0 +1,16 @@
+https://dmd01-t6g-west-2-gz.ebiz.verizon.com:8010/dmd/version,FEATURES-SERVICE,T6G
+https://dmd02-t6g-west-2-gz.ebiz.verizon.com:8010/dmd/version,FEATURES-SERVICE,T6G
+https://dmd01-t6g-west-2-gz.ebiz.verizon.com:8050/dmd/version,DEVICE-INFO,T6G
+https://dmd02-t6g-west-2-gz.ebiz.verizon.com:8050/dmd/version,DEVICE-INFO,T6G
+https://dmd01-t6g-west-2-gz.ebiz.verizon.com:8020/dmd/version,MULTIDEVICELOOKUP-SERVICE,T6G
+https://dmd02-t6g-west-2-gz.ebiz.verizon.com:8020/dmd/version,MULTIDEVICELOOKUP-SERVICE,T6G
+https://dmd01-t6g-west-2-gz.ebiz.verizon.com:8022/dmd/version,CASSANDRA-UPDATE-SERVICE,T6G
+https://dmd02-t6g-west-2-gz.ebiz.verizon.com:8022/dmd/version,CASSANDRA-UPDATE-SERVICE,T6G
+https://dmd01-t6g-west-2-gz.ebiz.verizon.com:8077/dmd/version,WRAPPER-SERVICE,T6G
+https://dmd02-t6g-west-2-gz.ebiz.verizon.com:8077/dmd/version,WRAPPER-SERVICE,T6G
+https://dmd01-t6g-west-2-gz.ebiz.verizon.com:8040/dmd/version,DATA-SERVICE,T6G
+https://dmd02-t6g-west-2-gz.ebiz.verizon.com:8040/dmd/version,DATA-SERVICE,T6G
+http://dmd01-t6g-west-2-gz.ebiz.verizon.com:8025/dmd/dmd/version,GUI-SERVICE,T6G
+http://dmd02-t6g-west-2-gz.ebiz.verizon.com:8025/dmd/dmd/version,GUI-SERVICE,T6G
+http://dmd01-t6g-west-2-gz.ebiz.verizon.com:8023/dmd/version,PROCESSING-SERVICE,T6G
+http://dmd02-t6g-west-2-gz.ebiz.verizon.com:8023/dmd/version,PROCESSING-SERVICE,T6G

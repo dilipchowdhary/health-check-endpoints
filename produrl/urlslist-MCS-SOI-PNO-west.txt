@@ -1,0 +1,2 @@
+https://soipnob2cservices-awswest.verizon.com/PNO/,SOI-PNO,WEST
+VZW-DAGV-PROD-SOIPNO-B2C-AW2-AutoScalingGroup-1KOWFTX7KC2NB,us-west-2,https,13001:13002:13003:13004:13005,/PNO/,SOI-PNO,WEST

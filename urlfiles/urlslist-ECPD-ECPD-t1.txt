@@ -1,0 +1,2 @@
+https://ewi-aws-uat2.ebiz.verizon.com:8081/ecpd/serverInfo,ECPD,T1
+https://ewi-aws-uat2.ebiz.verizon.com:8082/ecpd/serverInfo,ECPD,T1

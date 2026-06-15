@@ -1,0 +1,2 @@
+https://ecpdpnob2cservices-awseast.verizon.com/PNO/,ECPD-PNO,EAST
+VZW-DAGV-PROD-ECPD-B2C-AE1-AutoScalingGroup-1335HEVOG3YE5,us-east-1,https,13001:13002:13003:13004,/PNO/,ECPD-PNO,EAST

@@ -1,0 +1,2 @@
+https://saclpfj4va121.sdc.vzwcorp.com:10700/VendorGateway/,MCS-VendorGateway,SDC
+https://saclpfj4va122.sdc.vzwcorp.com:10700/VendorGateway/,MCS-VendorGateway,SDC

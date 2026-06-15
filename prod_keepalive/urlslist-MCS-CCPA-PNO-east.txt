@@ -1,0 +1,4 @@
+https://ccpapnob2cservices-awseast.verizon.com/PNO/health_check/keepalive,CCPA-PNO,EAST
+https://63-21-103-237.vpc.verizon.com:13001/PNO/health_check/keepalive,CCPA-PNO,PRODEAST
+https://144-70-21-186.vpc.verizon.com:13001/PNO/health_check/keepalive,CCPA-PNO,PRODEAST
+https://ccpapnob2cservices.verizon.com/PNO/health_check/keepalive,CCPA-PNO,GLOBAL

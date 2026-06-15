@@ -1,0 +1,30 @@
+APP_DETAIL_NAME=${APP_SUITE}_${APP_TYPE}_${DC}
+echo $APP_DETAIL_NAME
+if [[ -z "${APP_DETAIL_NAME}" ]]; then
+	echo "$APP_DETAIL_NAME is not nebula application"
+else
+  export http_proxy=http://vzproxy.verizon.com
+  export https_proxy=http://vzproxy.verizon.com
+  export NO_PROXY=127.0.0.1,localhost,instance-data,169.254.169.254,.elb.amazonaws.com,.verizon.com,.ebiz.verizon.com,oneartifactory.verizon.com 
+  if [[ $APP_DETAIL_NAME == *"EAST"* ]]; then
+  REGION_AWS="us-east-1"
+  else
+  REGION_AWS="us-west-2"
+  fi
+  echo $APP_REGION
+  eval echo eval "$APP_DETAIL_NAME"
+  
+  
+  hostlist=()
+  for ID in $(/usr/local/bin/aws autoscaling describe-auto-scaling-groups --auto-scaling-group-names ${ASG} --region ${REGION_AWS} --query AutoScalingGroups[].Instances[].InstanceId --output text);
+  do
+    IP=$(/usr/local/bin/aws ec2 describe-instances --instance-ids $ID --region ${REGION_AWS} --query Reservations[].Instances[].PrivateIpAddress --output text)
+    hostlist+=( ${IP} )
+  done
+  echo "${hostlist[@]}"
+  finalhostlist=`echo $(echo ${hostlist[*]}) | tr ' ' ','`
+  echo IP_HOSTS=$finalhostlist > DVS_Host_Name.txt
+  playbookname="nebula_precheck.yml"
+  echo "inside if loop"
+  
+fi

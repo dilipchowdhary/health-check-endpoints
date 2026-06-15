@@ -1,0 +1,4 @@
+http://mcscmpd4.ebiz.verizon.com:8080/PNO/,DVS-PNO,DIT4
+http://mcscmpd4.ebiz.verizon.com:9030/PNO/,CXP-PNO,DIT4
+http://mcscmpdit4-pno.ebiz.verizon.com:5445/PNO/,ETNI-PNO,DIT4
+http://mcscmpdit4-pno.ebiz.verizon.com:6060/PNO/,ECPD-PNO,DIT4
