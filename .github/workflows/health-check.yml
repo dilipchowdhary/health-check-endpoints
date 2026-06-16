@@ -13,7 +13,7 @@ on:
       urlfile:
         description: "Path to URL list file in repo"
         required: true
-        default: "prod_keepalive/urlslist-DVS-PRE-tdc-b2b.txt"
+        default: "prod_keepalive/urlslist-DVS-PRE-east.txt"
       apptype:
         description: "Application type (for response parsing)"
         required: true
